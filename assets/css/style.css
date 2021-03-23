@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt&display=swap:100,200,300,400,500,600,700,800|Open Sans:100,200,300,400,500,600,700,800');
+
+header {
+    margin: 0;
+}
+
+.logo {
+    background: url(../images/phoenix1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    
+}
